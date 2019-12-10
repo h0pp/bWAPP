@@ -9,7 +9,7 @@ I have updated the LAMP version to fix the CAPTCHA challange that stopped workin
 To launch the application, you should use:
 
 ```
-docker run -d -p 8000:80 h0pp/bWAPP
+docker run -d -p 8000:80 h0pp/bwapp
 ```
 
 (Note: I recommend using port 8000 to prevent right problems in ports under 1024).
